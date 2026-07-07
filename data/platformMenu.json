@@ -1,0 +1,11 @@
+{
+  "modules": {
+    "website": ["Wix", "Squarespace", "WordPress"],
+    "scheduling": ["Calendly", "Acuity", "Zocdoc"],
+    "ehr": ["SimplePractice", "Tebra", "Athenahealth"],
+    "forms": ["Jotform", "Formstack", "IntakeQ"],
+    "telehealth": ["Doxy.me", "Zoom for Healthcare", "SimplePractice"],
+    "followUpCare": ["Spruce Health", "Klara", "Healthie"]
+  },
+  "stacks": []
+}
