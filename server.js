@@ -3,7 +3,7 @@ import cors from "cors";
 import apiRoutes from "./routes/apiRoutes.js";
 
 const app = express();
-const PORT = rocess.env.PORT || 3001;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());          // let the frontend talk to us
 app.use(express.json());  // read JSON bodies
